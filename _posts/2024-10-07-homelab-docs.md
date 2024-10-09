@@ -1,4 +1,11 @@
-# This is my homelab specs
+---
+layout: post
+title:  "homelab docs"
+date:   2024-10-07 23:59:56 -0400
+categories: homelab docs
+---
+
+# This is my homelab docs
 
 ## this is my webserver tier
 

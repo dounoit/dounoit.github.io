@@ -1,4 +1,11 @@
-# This is my homelab docs
+---
+layout: post
+title:  "hardware specs"
+date:   2024-10-07 23:59:56 -0400
+categories: homelab update
+---
+
+# This is my homelab specs
 
 ## this is my webserver tier
 
@@ -18,3 +25,4 @@ im runnin mysql
 # go look at the docs
 # then execute
 ```
+
