@@ -1,5 +1,5 @@
 source "https://rubygems.org"
-gemspec
+#gemspec
 
 #gem "jekyll-theme-basically-basic"
 
